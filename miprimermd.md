@@ -37,7 +37,7 @@ Deberias verte el tutorial de [Taller 3: Introducción a Markdown](https://victo
 
 ## Links internos
 
-[Abrir segundo archivo](segundoarchivo.md)
+[Abrir segundo archivo](README.md)
 
 
 ## Imagenes
